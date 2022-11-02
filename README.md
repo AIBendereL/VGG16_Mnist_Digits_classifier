@@ -1,4 +1,4 @@
-# VGG16_Mnist_Digits_classifier
+# VGG16 Mnist Digits classifier
 
 These are simple train and test scripts for simple Mnist Digits classifier using VGG16 pre-trained model. 
 
@@ -10,7 +10,7 @@ Already included in the repository.
 
 Please read README.md in Models folder.
 
-The models need setting correctly first for the train and test scripts to run properly.
+The models weights need setting correctly first for the train and test scripts to run properly.
 
 ## Train script
 

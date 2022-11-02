@@ -9,11 +9,11 @@ The 2 models weights needed to run the 2 main scripts.
 
 ## How to get **vgg16_weights.pth** for the train script.
 
-You can simply run the file download_weights.py in this folder to generate a vgg16 pre-trained weights.
+You can simply run the file download_weights.py in this folder to generate a VGG16 pre-trained weights.
 
 
 ## How to get **vgg16_weights_mnist_digits.pth** for the test script.
 
 This is the weights you will get after training your model.
 
-Therefore, after getting the vgg16 pre-trained weights, you can run the traing script digits_classifier_train.py to generate this trained weights.
+Therefore, after getting the VGG16 pre-trained weights, you can run the traing script digits_classifier_train.py to generate this trained weights.

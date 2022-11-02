@@ -16,4 +16,4 @@ You can simply run the file download_weights.py in this folder to generate a VGG
 
 This is the weights you will get after training your model.
 
-Therefore, after getting the VGG16 pre-trained weights, you can run the traing script digits_classifier_train.py to generate this trained weights.
+Therefore, after getting the VGG16 pre-trained weights, you can run the train script digits_classifier_train.py to generate this trained weights.

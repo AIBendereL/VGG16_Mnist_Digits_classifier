@@ -9,6 +9,7 @@ Already included in the repository.
 ## Model
 
 Please read README.md in Models folder.
+
 The models need setting correctly first for the train and test scripts to run properly.
 
 ## Train script
